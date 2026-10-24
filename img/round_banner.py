@@ -1,23 +1,12 @@
-"""Bikin sudut banner sedikit rounded.
+﻿from PIL import Image, ImageDraw
 
-Cara pakai (jalankan dari root folder repo):
-    pip install pillow
-    python round_banner.py
+PATH = "img/banner.png"
+RADIUS_RATIO = 0.025  # makin besar makin bulat
 
-Input : img/banner.jpg
-Output: img/banner.png (PNG transparan, sudut rounded)
-"""
-from PIL import Image, ImageDraw
-
-SRC = "img/banner.jpg"
-DST = "img/banner.png"
-RADIUS_RATIO = 0.025  # 2.5% dari lebar gambar -> rounded tipis. Naikkan kalau mau lebih bulat.
-
-img = Image.open(SRC).convert("RGBA")
+img = Image.open(PATH).convert("RGBA")
 w, h = img.size
 radius = int(w * RADIUS_RATIO)
 
-# Supersampling 4x biar tepi sudut halus (anti-aliasing)
 scale = 4
 mask = Image.new("L", (w * scale, h * scale), 0)
 ImageDraw.Draw(mask).rounded_rectangle(
@@ -26,5 +15,5 @@ ImageDraw.Draw(mask).rounded_rectangle(
 mask = mask.resize((w, h), Image.LANCZOS)
 
 img.putalpha(mask)
-img.save(DST, "PNG")
-print(f"Selesai: {DST} ({w}x{h}, radius {radius}px)")
+img.save(PATH, "PNG")
+print(f"Selesai: {PATH} ({w}x{h}, radius {radius}px)")
