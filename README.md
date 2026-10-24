@@ -1,10 +1,11 @@
-<!-- 1. HELLO WORLD BANNER -->
+<!-- 1. CUSTOM BANNER & TYPING SVG -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World,%20I'm%20Kevin%20Van%20Merligt!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner" />
+  <img src="./img/banner.jpg" width="100%" alt="Kevin Van Merligt Banner" />
+  <br/><br/>
 
-  <!-- Typing SVG -->
+  <!-- Typing SVG di bawah banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kevin+Van+Merligt+%F0%9F%91%8B;Coding+Learner+%26+Tech+Lover+%F0%9F%92%BB;Exploring+Web+%26+Mobile+Dev+%F0%9F%93%B1;Enjoying+the+Learning+Journey+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kevin+Van+Merligt+%F0%9F%91%8B;Coding+Learner+%26+Tech+Lover+%F0%9F%92%BB;Exploring+Web+%26+Mobile+Dev+%F0%9F%93%B1;Enjoying+the+Learning+Journey+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,7 +14,7 @@
 <!-- 2. ABOUT ME -->
 ## 👋 About Me
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🙌 Hi there! I'm **Kevin Van Merligt**, someone who enjoys learning about technology and programming.
 - 🌱 Currently learning and exploring **Web & Mobile App Development** step by step.
@@ -48,10 +49,23 @@
 
 ---
 
-<!-- 4. LANGUAGE & TOOLS -->
+<!-- 4. LANGUAGE & TOOLS (Tampilan Panjang + Nama) -->
 ## 🛠️ Languages and Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,kotlin,dart,flutter,androidstudio,mysql,docker,figma,vscode&perline=7" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 ---
@@ -59,20 +73,16 @@
 <!-- 5. GITHUB TROPHY -->
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinvanmerligt&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kevinvanmerligt&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
 
-<!-- 6. GITHUB STATS -->
+<!-- 6. GITHUB STATS (Minimalis & Ringkas) -->
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinvanmerligt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinvanmerligt&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kevinvanmerligt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kevinvanmerligt&show_icons=true&theme=transparent&hide_border=true&hide_rank=false&include_all_commits=true" alt="GitHub Stats" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinvanmerligt&layout=compact&langs_count=4&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -96,7 +106,7 @@
 ---
 
 <!-- 9. ANIMASI ULAR GERAK -->
-## 🐍 Contributions Repo
+## 🐍 My Contributions Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevinvanmerligt/kevinvanmerligt/output/github-contribution-grid-snake-dark.svg">
