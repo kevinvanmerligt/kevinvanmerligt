@@ -1,6 +1,6 @@
-<!-- 1. CUSTOM BANNER & TYPING SVG -->
+﻿<!-- 1. CUSTOM BANNER & TYPING SVG -->
 <div align="center">
-  <img src="./img/banner.jpg" width="100%" alt="Kevin Van Merligt Banner" />
+  <img src="./img/banner.png" width="100%" alt="Kevin Van Merligt Banner" />
   <br/><br/>
 
   <!-- Typing SVG di bawah banner -->
