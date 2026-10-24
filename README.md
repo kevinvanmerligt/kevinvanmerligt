@@ -4,7 +4,7 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kevin+Van+Merligt+%F0%9F%91%8B;Coding+Learner+%26+Tech+Lover+%F0%9F%92%BB;Exploring+Web+%26+Mobile+Dev+%F0%9F%93%B1;Enjoying+ the+Learning+Journey+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kevin+Van+Merligt+%F0%9F%91%8B;Coding+Learner+%26+Tech+Lover+%F0%9F%92%BB;Exploring+Web+%26+Mobile+Dev+%F0%9F%93%B1;Enjoying+the+Learning+Journey+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -96,7 +96,7 @@
 ---
 
 <!-- 9. ANIMASI ULAR GERAK -->
-## 🐍 My Contributions Snake
+## 🐍 Contributions Repo
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevinvanmerligt/kevinvanmerligt/output/github-contribution-grid-snake-dark.svg">
