@@ -1,4 +1,4 @@
-﻿<!-- 1. CUSTOM BANNER & TYPING SVG -->
+<!-- 1. CUSTOM BANNER & TYPING SVG -->
 <div align="center">
   <img src="./img/banner.png" width="100%" alt="Kevin Van Merligt Banner" />
   <br/><br/>
@@ -68,7 +68,7 @@
 <!-- 5. GITHUB TROPHY -->
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinvanmerligt&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="" />
+  <img src="https://trophy.ryglcloud.net/?username=kevinvanmerligt&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -76,8 +76,12 @@
 <!-- 6. GITHUB STATS (Minimalis & Ringkas) -->
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kevinvanmerligt&show_icons=true&theme=transparent&hide_border=true&hide_rank=false&include_all_commits=true" alt="GitHub Stats" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinvanmerligt&layout=compact&langs_count=4&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="140em" src="https://github-stats-extended.vercel.app/api?username=kevinvanmerligt&show_icons=true&theme=transparent&hide_border=true&hide_rank=false&include_all_commits=true" alt="GitHub Stats" />
+  <img height="140em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kevinvanmerligt&layout=compact&langs_count=4&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img height="140em" src="https://streak-stats.demolab.com?user=kevinvanmerligt&theme=transparent&hide_border=true" alt="GitHub Streak & Contributions" />
 </div>
 
 ---
